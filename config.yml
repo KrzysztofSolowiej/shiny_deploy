@@ -1,0 +1,6 @@
+github_repo_url: "https://github.com/BioGenies/imputomics/tree/main"
+inst_dir: "Imputomics"
+model_function:   # Optional
+server_name: "imputomics.umb.edu.pl"
+ssl_certificate_path: "/home/cbk/certyfikat/imputomics_chained.cer"
+ssl_certificate_key_path: "/home/cbk/certyfikat/imputomics_umb_edu_pl.key"
